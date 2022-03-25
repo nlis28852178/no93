@@ -342,6 +342,16 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 	padding-bottom: 0px;
 	padding-left: 20px;
 }
+#A1_05 {
+	width: 180px;
+	height: 100px;
+	float: none;
+	margin:  0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
 
 #A1-1 {
 	background-color: #FFFFFF;
@@ -826,6 +836,19 @@ p span {
 	padding-bottom: 0px;
 	padding-left: 5px;
 }
+#Informationleft-05 {
+	width: 180px;
+	float: left;
+	margin:  0px;
+	border-bottom-width: 0px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	height: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
 
 #companyTitle2 {
 	width: 925px;
@@ -935,6 +958,26 @@ p span {
 	background-repeat: no-repeat;
 	height: 3px;
 	width: 670px;
+}
+#info5_t-05 {
+	background-image: url(../images/info5_t-05.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 180px;
+}
+
+#info5_h-05 {
+	background-image: url(../images/info5_h-05.gif);
+	background-repeat: repeat-y;
+	height: 3px;
+	width: 180px;
+}
+
+#info5_b-05 {
+	background-image: url(../images/info5_b-05.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 180px;
 }
 #info6_t {
 	background-image: url(../images/info6_t.gif);
