@@ -847,7 +847,20 @@ p span {
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 2px;
+	padding-left: 4px;
+}
+#Informationleft-005 {
+	width: 180px;
+	float: left;
+	margin:  0px;
+	border-bottom-width: 0px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	height: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
 }
 
 #companyTitle2 {
