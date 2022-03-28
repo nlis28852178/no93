@@ -960,21 +960,21 @@ p span {
 	width: 670px;
 }
 #info5_t-05 {
-	background-image: url(../images/info5_t-05.gif);
+	background-image: url(../images/info_t-05.gif);
 	background-repeat: no-repeat;
 	height: 3px;
 	width: 180px;
 }
 
 #info5_h-05 {
-	background-image: url(../images/info5_h-05.gif);
+	background-image: url(../images/info_h-05.gif);
 	background-repeat: repeat-y;
 	height: 3px;
 	width: 180px;
 }
 
 #info5_b-05 {
-	background-image: url(../images/info5_b-05.gif);
+	background-image: url(../images/info_b-05.gif);
 	background-repeat: no-repeat;
 	height: 3px;
 	width: 180px;
